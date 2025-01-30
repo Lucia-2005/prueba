@@ -1,5 +1,6 @@
 package persona;
-//Lucia castañera
+//Lucia castañera 
+
 
 
 public class Persona {
